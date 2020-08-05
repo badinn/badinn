@@ -1,3 +1,5 @@
+![](bonfire.gif)
+
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
 
