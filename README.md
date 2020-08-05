@@ -1,5 +1,3 @@
-[![](https://img.shields.io/badge/LinkedIn-badin-blue)](https://www.linkedin.com/in/badin/) 
-
 <!--START_SECTION:waka-->
 ![](http://img.shields.io/badge/Profile%20Views-4-blue)
 
