@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![](http://img.shields.io/badge/Profile%20Views-4-blue)
-
 **I'm a night 🦉** 
 
 ```text
