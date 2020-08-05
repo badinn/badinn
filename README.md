@@ -1,34 +1,7 @@
-### Hi there 👋
-
-<!--
-**badinn/badinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/LinkedIn-badin-blue)](https://www.linkedin.com/in/badin/) 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 33 Contributions in year 2020
- > 
-> 📦 Used 222.8 kB in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 11 Owned Private Repositories 
+![](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **I'm a night 🦉** 
 
@@ -86,11 +59,5 @@ JavaScript   1 repos        █░░░░░░░░░░░░░░░░�
 Lua          1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/badinn/badinn/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
