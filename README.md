@@ -1,1 +1,1 @@
-![](https://github.com/badinn/badinn/raw/master/faces.gif)
+![](https://github.com/badinn/badinn/raw/master/techjourney.gif)
